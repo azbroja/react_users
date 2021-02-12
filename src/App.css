@@ -10,6 +10,7 @@ h1 {
 }
 
 .search {
+  box-sizing: border-box;
   font-size: 20px;
   margin: 20px 0 30px;
   padding: .3em .5em;
@@ -19,6 +20,8 @@ h1 {
 .users {
   color: #999;
   text-align: left;
+  width: 340px;
+
 }
 
 .user {
